@@ -4,18 +4,16 @@
   
     
     <entry>
-      <title>测试页</title>
-      <link href="/2024/01/07/tags%20and%20categories/"/>
-      <url>/2024/01/07/tags%20and%20categories/</url>
+      <title>Test</title>
+      <link href="/2024/01/07/test/"/>
+      <url>/2024/01/07/test/</url>
       
-        <content type="html"><![CDATA[<p>This post contains 3 tags and 2 category.</p>]]></content>
+        <content type="html"><![CDATA[<p>This post contains 3 tags and 1 category.</p>]]></content>
       
       
       <categories>
           
           <category> 读书笔记 </category>
-          
-          <category> 随笔 </category>
           
       </categories>
       
